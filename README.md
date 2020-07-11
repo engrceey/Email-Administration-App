@@ -1,5 +1,5 @@
 ### Email-Administration-App
-#### Basic Email Admin app created with Java.
+#### Basic Email Admin app created with Java.(CLI App)
 ##### Features:
 * Reads user's first name and last name
 * Generates email with users firstname, lastname and company's domain and suffix
