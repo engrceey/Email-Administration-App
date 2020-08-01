@@ -7,6 +7,8 @@
 * Gives users assess to create own password
 * Presents users info.
 
+this cli app was build to experiment full privacy as all fields and methods are made private only the constructor is accessible.
+
 
 ##### #Just.Java.It...
 
